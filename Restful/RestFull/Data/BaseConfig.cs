@@ -8,6 +8,7 @@ namespace Restful.Data
         public BaseConfig()
         {
             string allData = File.ReadAllText(@"../../../ApiSettings.json");
+
             Settings = JsonSerializer.Deserialize<Settings>(allData); 
         }
 
