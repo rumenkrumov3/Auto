@@ -1,0 +1,452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git\\Auto\\Restful\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3475A49-7547-4125-8E92-A7E687D54E19}|AutomationExerciseProject\\AutomationExerciseProject.csproj|c:\\git\\auto\\restful\\automationexerciseproject\\signuptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3475A49-7547-4125-8E92-A7E687D54E19}|AutomationExerciseProject\\AutomationExerciseProject.csproj|solutionrelative:automationexerciseproject\\signuptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3475A49-7547-4125-8E92-A7E687D54E19}|AutomationExerciseProject\\AutomationExerciseProject.csproj|c:\\git\\auto\\restful\\automationexerciseproject\\pages\\singupdetailedpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3475A49-7547-4125-8E92-A7E687D54E19}|AutomationExerciseProject\\AutomationExerciseProject.csproj|solutionrelative:automationexerciseproject\\pages\\singupdetailedpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3475A49-7547-4125-8E92-A7E687D54E19}|AutomationExerciseProject\\AutomationExerciseProject.csproj|c:\\git\\auto\\restful\\automationexerciseproject\\communication\\driveradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3475A49-7547-4125-8E92-A7E687D54E19}|AutomationExerciseProject\\AutomationExerciseProject.csproj|solutionrelative:automationexerciseproject\\communication\\driveradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3475A49-7547-4125-8E92-A7E687D54E19}|AutomationExerciseProject\\AutomationExerciseProject.csproj|c:\\git\\auto\\restful\\automationexerciseproject\\pages\\webpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3475A49-7547-4125-8E92-A7E687D54E19}|AutomationExerciseProject\\AutomationExerciseProject.csproj|solutionrelative:automationexerciseproject\\pages\\webpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3475A49-7547-4125-8E92-A7E687D54E19}|AutomationExerciseProject\\AutomationExerciseProject.csproj|c:\\git\\auto\\restful\\automationexerciseproject\\factory\\userdetailsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3475A49-7547-4125-8E92-A7E687D54E19}|AutomationExerciseProject\\AutomationExerciseProject.csproj|solutionrelative:automationexerciseproject\\factory\\userdetailsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3475A49-7547-4125-8E92-A7E687D54E19}|AutomationExerciseProject\\AutomationExerciseProject.csproj|c:\\git\\auto\\restful\\automationexerciseproject\\pages\\singupshortpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3475A49-7547-4125-8E92-A7E687D54E19}|AutomationExerciseProject\\AutomationExerciseProject.csproj|solutionrelative:automationexerciseproject\\pages\\singupshortpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3475A49-7547-4125-8E92-A7E687D54E19}|AutomationExerciseProject\\AutomationExerciseProject.csproj|c:\\git\\auto\\restful\\automationexerciseproject\\models\\userdetailsshort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3475A49-7547-4125-8E92-A7E687D54E19}|AutomationExerciseProject\\AutomationExerciseProject.csproj|solutionrelative:automationexerciseproject\\models\\userdetailsshort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3475A49-7547-4125-8E92-A7E687D54E19}|AutomationExerciseProject\\AutomationExerciseProject.csproj|c:\\git\\auto\\restful\\automationexerciseproject\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3475A49-7547-4125-8E92-A7E687D54E19}|AutomationExerciseProject\\AutomationExerciseProject.csproj|solutionrelative:automationexerciseproject\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10082BE0-97E2-47CF-AAC2-0372AA7D6E82}|RestFull\\RestFul.csproj|c:\\git\\auto\\restful\\restfull\\factory\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10082BE0-97E2-47CF-AAC2-0372AA7D6E82}|RestFull\\RestFul.csproj|solutionrelative:restfull\\factory\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3475A49-7547-4125-8E92-A7E687D54E19}|AutomationExerciseProject\\AutomationExerciseProject.csproj|c:\\git\\auto\\restful\\automationexerciseproject\\constants\\browser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3475A49-7547-4125-8E92-A7E687D54E19}|AutomationExerciseProject\\AutomationExerciseProject.csproj|solutionrelative:automationexerciseproject\\constants\\browser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10082BE0-97E2-47CF-AAC2-0372AA7D6E82}|RestFull\\RestFul.csproj|c:\\git\\auto\\restful\\restfull\\data\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10082BE0-97E2-47CF-AAC2-0372AA7D6E82}|RestFull\\RestFul.csproj|solutionrelative:restfull\\data\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10082BE0-97E2-47CF-AAC2-0372AA7D6E82}|RestFull\\RestFul.csproj|c:\\git\\auto\\restful\\restfull\\data\\baseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10082BE0-97E2-47CF-AAC2-0372AA7D6E82}|RestFull\\RestFul.csproj|solutionrelative:restfull\\data\\baseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\Auto\\X-home\\Pages\\SingUpPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10082BE0-97E2-47CF-AAC2-0372AA7D6E82}|RestFull\\RestFul.csproj|c:\\git\\auto\\restful\\restfull\\tests\\restapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10082BE0-97E2-47CF-AAC2-0372AA7D6E82}|RestFull\\RestFul.csproj|solutionrelative:restfull\\tests\\restapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10082BE0-97E2-47CF-AAC2-0372AA7D6E82}|RestFull\\RestFul.csproj|c:\\git\\auto\\restful\\restfull\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10082BE0-97E2-47CF-AAC2-0372AA7D6E82}|RestFull\\RestFul.csproj|solutionrelative:restfull\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10082BE0-97E2-47CF-AAC2-0372AA7D6E82}|RestFull\\RestFul.csproj|c:\\git\\auto\\restful\\restfull\\extensions\\restsharpextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10082BE0-97E2-47CF-AAC2-0372AA7D6E82}|RestFull\\RestFul.csproj|solutionrelative:restfull\\extensions\\restsharpextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10082BE0-97E2-47CF-AAC2-0372AA7D6E82}|RestFull\\RestFul.csproj|c:\\git\\auto\\restful\\restfull\\models\\getuser\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10082BE0-97E2-47CF-AAC2-0372AA7D6E82}|RestFull\\RestFul.csproj|solutionrelative:restfull\\models\\getuser\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10082BE0-97E2-47CF-AAC2-0372AA7D6E82}|RestFull\\RestFul.csproj|c:\\git\\auto\\restful\\restfull\\models\\getuser\\userget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10082BE0-97E2-47CF-AAC2-0372AA7D6E82}|RestFull\\RestFul.csproj|solutionrelative:restfull\\models\\getuser\\userget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10082BE0-97E2-47CF-AAC2-0372AA7D6E82}|RestFull\\RestFul.csproj|c:\\git\\auto\\restful\\restfull\\models\\getuser\\support.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10082BE0-97E2-47CF-AAC2-0372AA7D6E82}|RestFull\\RestFul.csproj|solutionrelative:restfull\\models\\getuser\\support.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10082BE0-97E2-47CF-AAC2-0372AA7D6E82}|RestFull\\RestFul.csproj|c:\\git\\auto\\restful\\restfull\\models\\userpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10082BE0-97E2-47CF-AAC2-0372AA7D6E82}|RestFull\\RestFul.csproj|solutionrelative:restfull\\models\\userpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10082BE0-97E2-47CF-AAC2-0372AA7D6E82}|RestFull\\RestFul.csproj|c:\\git\\auto\\restful\\restfull\\apisettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10082BE0-97E2-47CF-AAC2-0372AA7D6E82}|RestFull\\RestFul.csproj|solutionrelative:restfull\\apisettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\Auto\\X-home\\AutomationExerciseProject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\Auto\\X-home\\Pages\\WebPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\Auto\\X-home\\Pages\\HomePage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\Auto\\X-home\\Models\\Browser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\Auto\\X-home\\Communication\\DriverAdapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\Auto\\X-home\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDetailsShort.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Restful\\AutomationExerciseProject\\Models\\UserDetailsShort.cs",
+              "RelativeDocumentMoniker": "AutomationExerciseProject\\Models\\UserDetailsShort.cs",
+              "ToolTip": "C:\\Git\\Auto\\Restful\\AutomationExerciseProject\\Models\\UserDetailsShort.cs",
+              "RelativeToolTip": "AutomationExerciseProject\\Models\\UserDetailsShort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:58:10.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDetailsFactory.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Restful\\AutomationExerciseProject\\Factory\\UserDetailsFactory.cs",
+              "RelativeDocumentMoniker": "AutomationExerciseProject\\Factory\\UserDetailsFactory.cs",
+              "ToolTip": "C:\\Git\\Auto\\Restful\\AutomationExerciseProject\\Factory\\UserDetailsFactory.cs",
+              "RelativeToolTip": "AutomationExerciseProject\\Factory\\UserDetailsFactory.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:56:53.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebPage.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Restful\\AutomationExerciseProject\\Pages\\WebPage.cs",
+              "RelativeDocumentMoniker": "AutomationExerciseProject\\Pages\\WebPage.cs",
+              "ToolTip": "C:\\Git\\Auto\\Restful\\AutomationExerciseProject\\Pages\\WebPage.cs",
+              "RelativeToolTip": "AutomationExerciseProject\\Pages\\WebPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:53:31.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Restful\\AutomationExerciseProject\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "AutomationExerciseProject\\Pages\\HomePage.cs",
+              "ToolTip": "C:\\Git\\Auto\\Restful\\AutomationExerciseProject\\Pages\\HomePage.cs",
+              "RelativeToolTip": "AutomationExerciseProject\\Pages\\HomePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:53:26.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SingUpShortPage.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Restful\\AutomationExerciseProject\\Pages\\SingUpShortPage.cs",
+              "RelativeDocumentMoniker": "AutomationExerciseProject\\Pages\\SingUpShortPage.cs",
+              "ToolTip": "C:\\Git\\Auto\\Restful\\AutomationExerciseProject\\Pages\\SingUpShortPage.cs",
+              "RelativeToolTip": "AutomationExerciseProject\\Pages\\SingUpShortPage.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwA4AAACgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:53:08.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUpTests.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Restful\\AutomationExerciseProject\\SignUpTests.cs",
+              "RelativeDocumentMoniker": "AutomationExerciseProject\\SignUpTests.cs",
+              "ToolTip": "C:\\Git\\Auto\\Restful\\AutomationExerciseProject\\SignUpTests.cs",
+              "RelativeToolTip": "AutomationExerciseProject\\SignUpTests.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:49:39.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DriverAdapter.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Restful\\AutomationExerciseProject\\Communication\\DriverAdapter.cs",
+              "RelativeDocumentMoniker": "AutomationExerciseProject\\Communication\\DriverAdapter.cs",
+              "ToolTip": "C:\\Git\\Auto\\Restful\\AutomationExerciseProject\\Communication\\DriverAdapter.cs",
+              "RelativeToolTip": "AutomationExerciseProject\\Communication\\DriverAdapter.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAUwDkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:50:20.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SingUpDetailedPage.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Restful\\AutomationExerciseProject\\Pages\\SingUpDetailedPage.cs",
+              "RelativeDocumentMoniker": "AutomationExerciseProject\\Pages\\SingUpDetailedPage.cs",
+              "ToolTip": "C:\\Git\\Auto\\Restful\\AutomationExerciseProject\\Pages\\SingUpDetailedPage.cs",
+              "RelativeToolTip": "AutomationExerciseProject\\Pages\\SingUpDetailedPage.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:23:37.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SingUpPage.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\X-home\\Pages\\SingUpPage.cs",
+              "RelativeDocumentMoniker": "..\\X-home\\Pages\\SingUpPage.cs",
+              "ToolTip": "C:\\Git\\Auto\\X-home\\Pages\\SingUpPage.cs",
+              "RelativeToolTip": "..\\X-home\\Pages\\SingUpPage.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:42:00.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WebPage.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\X-home\\Pages\\WebPage.cs",
+              "RelativeDocumentMoniker": "..\\X-home\\Pages\\WebPage.cs",
+              "ToolTip": "C:\\Git\\Auto\\X-home\\Pages\\WebPage.cs",
+              "RelativeToolTip": "..\\X-home\\Pages\\WebPage.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:27:53.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserFactory.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Restful\\RestFull\\Factory\\UserFactory.cs",
+              "RelativeDocumentMoniker": "RestFull\\Factory\\UserFactory.cs",
+              "ToolTip": "C:\\Git\\Auto\\Restful\\RestFull\\Factory\\UserFactory.cs",
+              "RelativeToolTip": "RestFull\\Factory\\UserFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T06:32:29.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Browser.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Restful\\AutomationExerciseProject\\Constants\\Browser.cs",
+              "RelativeDocumentMoniker": "AutomationExerciseProject\\Constants\\Browser.cs",
+              "ToolTip": "C:\\Git\\Auto\\Restful\\AutomationExerciseProject\\Constants\\Browser.cs",
+              "RelativeToolTip": "AutomationExerciseProject\\Constants\\Browser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:51:57.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\X-home\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "..\\X-home\\Pages\\HomePage.cs",
+              "ToolTip": "C:\\Git\\Auto\\X-home\\Pages\\HomePage.cs",
+              "RelativeToolTip": "..\\X-home\\Pages\\HomePage.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:27:18.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Browser.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\X-home\\Models\\Browser.cs",
+              "RelativeDocumentMoniker": "..\\X-home\\Models\\Browser.cs",
+              "ToolTip": "C:\\Git\\Auto\\X-home\\Models\\Browser.cs",
+              "RelativeToolTip": "..\\X-home\\Models\\Browser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:15:50.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DriverAdapter.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\X-home\\Communication\\DriverAdapter.cs",
+              "RelativeDocumentMoniker": "..\\X-home\\Communication\\DriverAdapter.cs",
+              "ToolTip": "C:\\Git\\Auto\\X-home\\Communication\\DriverAdapter.cs",
+              "RelativeToolTip": "..\\X-home\\Communication\\DriverAdapter.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:13:47.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\X-home\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\X-home\\UnitTest1.cs",
+              "ToolTip": "C:\\Git\\Auto\\X-home\\UnitTest1.cs",
+              "RelativeToolTip": "..\\X-home\\UnitTest1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:51:22.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RestSharpExtensions.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Restful\\RestFull\\Extensions\\RestSharpExtensions.cs",
+              "RelativeDocumentMoniker": "RestFull\\Extensions\\RestSharpExtensions.cs",
+              "ToolTip": "C:\\Git\\Auto\\Restful\\RestFull\\Extensions\\RestSharpExtensions.cs",
+              "RelativeToolTip": "RestFull\\Extensions\\RestSharpExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:21:47.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Support.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Restful\\RestFull\\Models\\GetUser\\Support.cs",
+              "RelativeDocumentMoniker": "RestFull\\Models\\GetUser\\Support.cs",
+              "ToolTip": "C:\\Git\\Auto\\Restful\\RestFull\\Models\\GetUser\\Support.cs",
+              "RelativeToolTip": "RestFull\\Models\\GetUser\\Support.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:02:39.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserGet.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Restful\\RestFull\\Models\\GetUser\\UserGet.cs",
+              "RelativeDocumentMoniker": "RestFull\\Models\\GetUser\\UserGet.cs",
+              "ToolTip": "C:\\Git\\Auto\\Restful\\RestFull\\Models\\GetUser\\UserGet.cs",
+              "RelativeToolTip": "RestFull\\Models\\GetUser\\UserGet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T06:56:17.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseConfig.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Restful\\RestFull\\Data\\BaseConfig.cs",
+              "RelativeDocumentMoniker": "RestFull\\Data\\BaseConfig.cs",
+              "ToolTip": "C:\\Git\\Auto\\Restful\\RestFull\\Data\\BaseConfig.cs",
+              "RelativeToolTip": "RestFull\\Data\\BaseConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T06:32:29.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Restful\\RestFull\\Data\\Settings.cs",
+              "RelativeDocumentMoniker": "RestFull\\Data\\Settings.cs",
+              "ToolTip": "C:\\Git\\Auto\\Restful\\RestFull\\Data\\Settings.cs",
+              "RelativeToolTip": "RestFull\\Data\\Settings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T06:32:29.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AutomationExerciseProject.csproj",
+              "DocumentMoniker": "C:\\Git\\Auto\\X-home\\AutomationExerciseProject.csproj",
+              "RelativeDocumentMoniker": "..\\X-home\\AutomationExerciseProject.csproj",
+              "ToolTip": "C:\\Git\\Auto\\X-home\\AutomationExerciseProject.csproj",
+              "RelativeToolTip": "..\\X-home\\AutomationExerciseProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T09:44:59.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserPost.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Restful\\RestFull\\Models\\UserPost.cs",
+              "RelativeDocumentMoniker": "RestFull\\Models\\UserPost.cs",
+              "ToolTip": "C:\\Git\\Auto\\Restful\\RestFull\\Models\\UserPost.cs",
+              "RelativeToolTip": "RestFull\\Models\\UserPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T06:32:29.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApiSettings.json",
+              "DocumentMoniker": "C:\\Git\\Auto\\Restful\\RestFull\\ApiSettings.json",
+              "RelativeDocumentMoniker": "RestFull\\ApiSettings.json",
+              "ToolTip": "C:\\Git\\Auto\\Restful\\RestFull\\ApiSettings.json",
+              "RelativeToolTip": "RestFull\\ApiSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T06:32:29.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RestApiTests.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Restful\\RestFull\\Tests\\RestApiTests.cs",
+              "RelativeDocumentMoniker": "RestFull\\Tests\\RestApiTests.cs",
+              "ToolTip": "C:\\Git\\Auto\\Restful\\RestFull\\Tests\\RestApiTests.cs",
+              "RelativeToolTip": "RestFull\\Tests\\RestApiTests.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T06:32:29.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Restful\\RestFull\\Usings.cs",
+              "RelativeDocumentMoniker": "RestFull\\Usings.cs",
+              "ToolTip": "C:\\Git\\Auto\\Restful\\RestFull\\Usings.cs",
+              "RelativeToolTip": "RestFull\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T06:32:29.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Restful\\RestFull\\Models\\GetUser\\UserResponse.cs",
+              "RelativeDocumentMoniker": "RestFull\\Models\\GetUser\\UserResponse.cs",
+              "ToolTip": "C:\\Git\\Auto\\Restful\\RestFull\\Models\\GetUser\\UserResponse.cs",
+              "RelativeToolTip": "RestFull\\Models\\GetUser\\UserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:03:13.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
