@@ -30,7 +30,8 @@ namespace AutomationExerciseProject.Pages
         public IWebElement ZipCode => Driver.FindElement(By.Id("zipcode"));
         public IWebElement MobileNumber => Driver.FindElement(By.Id("mobile_number"));
         public IWebElement CreateAccBtn => Driver.FindElement(By.CssSelector("button.btn:nth-child(22)"));
-        public IWebElement AccountCreated => Driver.FindElement(By.CssSelector(".title"));
+        public IWebElement AccountTitle => Driver.FindElement(By.CssSelector(".title"));
+        public IWebElement ContinueBtn => Driver.FindElement(By.CssSelector("#form > div > div > div > div > a"));
 
         public void FillUserFormAndSubmit(UserDetails userDetails)
         {

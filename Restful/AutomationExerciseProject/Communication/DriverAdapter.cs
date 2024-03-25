@@ -16,6 +16,7 @@ namespace AutomationExerciseProject.Communication
         private IWebDriver _webDriver;
         private WebDriverWait _webDriverWait;
 
+        private readonly static Lazy<DriverAdapter> _driverAdapter = new Lazy<DriverAdapter>(() => new DriverAdapter());
         public void Start(Browser browser)
         {
             switch (browser)
@@ -47,6 +48,7 @@ namespace AutomationExerciseProject.Communication
             _webDriverWait = new WebDriverWait(_webDriver, TimeSpan.FromSeconds(30));
         }
 
+        public static DriverAdapter Instance => _driverAdapter.Value;
         public void Quit()
         => _webDriver.Quit();
 

@@ -10,11 +10,13 @@ namespace AutomationExerciseProject.Pages
         {
         }
 
-        public IWebElement SignUpButton => Driver.FindElement(By.CssSelector(".fa-lock"));
-
+        public IWebElement SignUpAndLoginBtn => Driver.FindElement(By.CssSelector(".fa-lock"));
+        public IWebElement LogoutBtn => Driver.FindElement(By.CssSelector("#header > div > div > div > div.col-sm-8 > div > ul > li:nth-child(4) > a"));
+        public IWebElement DeleteBtn => Driver.FindElement(By.CssSelector("#header > div > div > div > div.col-sm-8 > div > ul > li:nth-child(5) > a"));
+        public IWebElement UserInfo => Driver.FindElement(By.CssSelector("#header > div > div > div > div.col-sm-8 > div > ul > li:nth-child(10) > a > i"));
         public void ClickSignUp()
         {
-            SignUpButton.Click();
+            SignUpAndLoginBtn.Click();
         }
     }
 }
