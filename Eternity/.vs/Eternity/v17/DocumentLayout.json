@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git\\Auto\\Eternity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29371975-96EB-4F30-B638-45DD5D581E13}|AutomationExercise\\AutomationExercise.csproj|c:\\git\\auto\\eternity\\automationexercise\\tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29371975-96EB-4F30-B638-45DD5D581E13}|AutomationExercise\\AutomationExercise.csproj|solutionrelative:automationexercise\\tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29371975-96EB-4F30-B638-45DD5D581E13}|AutomationExercise\\AutomationExercise.csproj|c:\\git\\auto\\eternity\\automationexercise\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29371975-96EB-4F30-B638-45DD5D581E13}|AutomationExercise\\AutomationExercise.csproj|solutionrelative:automationexercise\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29371975-96EB-4F30-B638-45DD5D581E13}|AutomationExercise\\AutomationExercise.csproj|c:\\git\\auto\\eternity\\automationexercise\\tests\\signupformtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29371975-96EB-4F30-B638-45DD5D581E13}|AutomationExercise\\AutomationExercise.csproj|solutionrelative:automationexercise\\tests\\signupformtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29371975-96EB-4F30-B638-45DD5D581E13}|AutomationExercise\\AutomationExercise.csproj|c:\\git\\auto\\eternity\\automationexercise\\pages\\singupandloginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29371975-96EB-4F30-B638-45DD5D581E13}|AutomationExercise\\AutomationExercise.csproj|solutionrelative:automationexercise\\pages\\singupandloginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29371975-96EB-4F30-B638-45DD5D581E13}|AutomationExercise\\AutomationExercise.csproj|c:\\git\\auto\\eternity\\automationexercise\\models\\userdetailsshort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29371975-96EB-4F30-B638-45DD5D581E13}|AutomationExercise\\AutomationExercise.csproj|solutionrelative:automationexercise\\models\\userdetailsshort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Eternity\\AutomationExercise\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "AutomationExercise\\Pages\\HomePage.cs",
+              "ToolTip": "C:\\Git\\Auto\\Eternity\\AutomationExercise\\Pages\\HomePage.cs",
+              "RelativeToolTip": "AutomationExercise\\Pages\\HomePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:43:49.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDetailsShort.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Eternity\\AutomationExercise\\Models\\UserDetailsShort.cs",
+              "RelativeDocumentMoniker": "AutomationExercise\\Models\\UserDetailsShort.cs",
+              "ToolTip": "C:\\Git\\Auto\\Eternity\\AutomationExercise\\Models\\UserDetailsShort.cs",
+              "RelativeToolTip": "AutomationExercise\\Models\\UserDetailsShort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:35:08.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SingUpAndLoginPage.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Eternity\\AutomationExercise\\Pages\\SingUpAndLoginPage.cs",
+              "RelativeDocumentMoniker": "AutomationExercise\\Pages\\SingUpAndLoginPage.cs",
+              "ToolTip": "C:\\Git\\Auto\\Eternity\\AutomationExercise\\Pages\\SingUpAndLoginPage.cs",
+              "RelativeToolTip": "AutomationExercise\\Pages\\SingUpAndLoginPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:33:29.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUpFormTests.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Eternity\\AutomationExercise\\Tests\\SignUpFormTests.cs",
+              "RelativeDocumentMoniker": "AutomationExercise\\Tests\\SignUpFormTests.cs",
+              "ToolTip": "C:\\Git\\Auto\\Eternity\\AutomationExercise\\Tests\\SignUpFormTests.cs",
+              "RelativeToolTip": "AutomationExercise\\Tests\\SignUpFormTests.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAiwDYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:30:24.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginTests.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Eternity\\AutomationExercise\\Tests\\LoginTests.cs",
+              "RelativeDocumentMoniker": "AutomationExercise\\Tests\\LoginTests.cs",
+              "ToolTip": "C:\\Git\\Auto\\Eternity\\AutomationExercise\\Tests\\LoginTests.cs",
+              "RelativeToolTip": "AutomationExercise\\Tests\\LoginTests.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvy0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:30:17.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
