@@ -1,4 +1,4 @@
 {
   "BaseURL": "https://reqres.in/",
-  "SubURL":  "api/users/"
+  "SubURL": "api/users/"
 }

@@ -1,6 +1,7 @@
 ﻿using FluentAssertions;
 using Newtonsoft.Json;
 using NUnit.Framework;
+using Polly;
 using Restful.Data;
 using RestFul.Extensions;
 using RestFul.Factory;
@@ -13,25 +14,31 @@ public class RestApiTests
 {
     private BaseConfig _baseConfig;
     private RestClient _client;
+    private PolicyBuilder<RestResponse> _policy;
 
     [SetUp]
     public void SetUp()
     {
         _baseConfig = new BaseConfig();
         _client = new RestClient(_baseConfig.Settings.BaseURL);
+        _policy = Policy.HandleResult<RestResponse>(e => e.StatusCode != HttpStatusCode.OK);
     }
 
     [Test]
-    public void GetAllTheBookiesIds()
+    public async Task GetAllTheBookiesIds()
     {        
-        var restRequest = new RestRequest(_baseConfig.Settings.SubURL);
-        var response = _client.ExecuteGet(restRequest);
+        var restRequest = new RestRequest(_baseConfig.Settings.SubURL, Method.Get);
 
-        response.StatusCode.Should().Be(HttpStatusCode.OK);
+        var policyResult = await _policy
+                        .WaitAndRetryAsync(10, retryDuration => TimeSpan.FromSeconds(1))
+                        .ExecuteAsync(() => _client.ExecuteAsync(restRequest));
+
+        Assert.True(policyResult.IsSuccessful);
+        Assert.True(policyResult.StatusCode.isSuccessfulStatusCode());
     }
 
     [Test]
-    public void GetSingleUser()
+    public async Task GetSingleUser()
     {
         var expectedUser = new UserGet()
         {
@@ -44,13 +51,16 @@ public class RestApiTests
 
         try
         {
-            var restRequest = new RestRequest(string.Concat(_baseConfig.Settings.SubURL, "2"));
-            var response = _client.ExecuteGet(restRequest);
+            var restRequest = new RestRequest(string.Concat(_baseConfig.Settings.SubURL, "2"), Method.Get);
 
-            Assert.True(response.IsSuccessful);
-            Assert.True(response.StatusCode.isSuccessfulStatusCode());
+            var policyResult = await _policy
+                             .WaitAndRetryAsync(10, retryDuration => TimeSpan.FromSeconds(1))
+                             .ExecuteAsync(() => _client.ExecuteAsync(restRequest));
 
-            var actualUser = JsonConvert.DeserializeObject<UserResponse>(response.Content);
+            Assert.True(policyResult.IsSuccessful);
+            Assert.True(policyResult.StatusCode.isSuccessfulStatusCode());
+
+            var actualUser = JsonConvert.DeserializeObject<UserResponse>(policyResult.Content);
             actualUser.Data.Should().BeEquivalentTo(expectedUser);
         }
         catch (Exception e)
@@ -61,28 +71,36 @@ public class RestApiTests
     }
 
     [Test]
-    public void GetSingleUserNotFound()
+    public async Task GetSingleUserNotFound()
     {
         var restRequest = new RestRequest(string.Concat(_baseConfig.Settings.SubURL, "23"), Method.Get);
-        var response = _client.Execute(restRequest);
 
-        response.StatusCode.Should().Be(HttpStatusCode.NotFound);
+        var policyResult = await Policy
+                             .HandleResult<RestResponse>(e => e.StatusCode != HttpStatusCode.NotFound)
+                             .WaitAndRetryAsync(10, retryDuration => TimeSpan.FromSeconds(1))
+                             .ExecuteAsync(() => _client.ExecuteAsync(restRequest));
+
+        policyResult.StatusCode.Should().Be(HttpStatusCode.NotFound);
     }
 
     [Test]
-    public void CreateUser() 
+    public async Task CreateUser() 
     {
         var user = new UserFactory().Generate();
         var serialziedUser = JsonConvert.SerializeObject(user);
 
-        var restRequest = new RestRequest(_baseConfig.Settings.SubURL, Method.Post);
-        restRequest.AddBody(serialziedUser);
+        var restRequest = new RestRequest(_baseConfig.Settings.SubURL, Method.Post).AddJsonBody(serialziedUser);
 
-        var createdUserResponse = _client.Execute<UserPost>(restRequest);
+        var policyResult = await Policy
+                             .HandleResult<RestResponse>(e => e.StatusCode != HttpStatusCode.Created)
+                             .WaitAndRetryAsync(10, retryDuration => TimeSpan.FromSeconds(1))
+                             .ExecuteAsync(() => _client.ExecuteAsync(restRequest));
 
-        createdUserResponse.StatusCode.Should().Be(HttpStatusCode.Created);
-        createdUserResponse.Data.Name.Should().Be(user.Name);
-        createdUserResponse.Data.Job.Should().Be(user.Job);
+        var userData = JsonConvert.DeserializeObject<UserPost>(policyResult.Content);
+
+        policyResult.StatusCode.Should().Be(HttpStatusCode.Created);
+        userData.Name.Should().Be(user.Name);
+        userData.Job.Should().Be(user.Job);
     }
 
     [TearDown]

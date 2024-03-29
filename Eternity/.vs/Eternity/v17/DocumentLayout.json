@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Git\\Auto\\Eternity\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CCFC4C94-C51B-4D15-A6B0-4692881DF7C1}|Reqres\\Reqres.csproj|c:\\git\\auto\\eternity\\reqres\\tests\\restapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCFC4C94-C51B-4D15-A6B0-4692881DF7C1}|Reqres\\Reqres.csproj|solutionrelative:reqres\\tests\\restapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFC4C94-C51B-4D15-A6B0-4692881DF7C1}|Reqres\\Reqres.csproj|c:\\git\\auto\\eternity\\reqres\\apisettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCFC4C94-C51B-4D15-A6B0-4692881DF7C1}|Reqres\\Reqres.csproj|solutionrelative:reqres\\apisettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFC4C94-C51B-4D15-A6B0-4692881DF7C1}|Reqres\\Reqres.csproj|c:\\git\\auto\\eternity\\reqres\\data\\baseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCFC4C94-C51B-4D15-A6B0-4692881DF7C1}|Reqres\\Reqres.csproj|solutionrelative:reqres\\data\\baseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFC4C94-C51B-4D15-A6B0-4692881DF7C1}|Reqres\\Reqres.csproj|c:\\git\\auto\\eternity\\reqres\\reqres.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CCFC4C94-C51B-4D15-A6B0-4692881DF7C1}|Reqres\\Reqres.csproj|solutionrelative:reqres\\reqres.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFC4C94-C51B-4D15-A6B0-4692881DF7C1}|Reqres\\Reqres.csproj|c:\\git\\auto\\eternity\\reqres\\data\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCFC4C94-C51B-4D15-A6B0-4692881DF7C1}|Reqres\\Reqres.csproj|solutionrelative:reqres\\data\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29371975-96EB-4F30-B638-45DD5D581E13}|AutomationExercise\\AutomationExercise.csproj|c:\\git\\auto\\eternity\\automationexercise\\tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29371975-96EB-4F30-B638-45DD5D581E13}|AutomationExercise\\AutomationExercise.csproj|solutionrelative:automationexercise\\tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,6 +63,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ApiSettings.json",
+              "DocumentMoniker": "C:\\Git\\Auto\\Eternity\\Reqres\\ApiSettings.json",
+              "RelativeDocumentMoniker": "Reqres\\ApiSettings.json",
+              "ToolTip": "C:\\Git\\Auto\\Eternity\\Reqres\\ApiSettings.json",
+              "RelativeToolTip": "Reqres\\ApiSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T14:37:05.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reqres.csproj",
+              "DocumentMoniker": "C:\\Git\\Auto\\Eternity\\Reqres\\Reqres.csproj",
+              "RelativeDocumentMoniker": "Reqres\\Reqres.csproj",
+              "ToolTip": "C:\\Git\\Auto\\Eternity\\Reqres\\Reqres.csproj",
+              "RelativeToolTip": "Reqres\\Reqres.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T14:31:00.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseConfig.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Eternity\\Reqres\\Data\\BaseConfig.cs",
+              "RelativeDocumentMoniker": "Reqres\\Data\\BaseConfig.cs",
+              "ToolTip": "C:\\Git\\Auto\\Eternity\\Reqres\\Data\\BaseConfig.cs",
+              "RelativeToolTip": "Reqres\\Data\\BaseConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:28:42.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Eternity\\Reqres\\Data\\Settings.cs",
+              "RelativeDocumentMoniker": "Reqres\\Data\\Settings.cs",
+              "ToolTip": "C:\\Git\\Auto\\Eternity\\Reqres\\Data\\Settings.cs",
+              "RelativeToolTip": "Reqres\\Data\\Settings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:28:41.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestApiTests.cs",
+              "DocumentMoniker": "C:\\Git\\Auto\\Eternity\\Reqres\\Tests\\RestApiTests.cs",
+              "RelativeDocumentMoniker": "Reqres\\Tests\\RestApiTests.cs",
+              "ToolTip": "C:\\Git\\Auto\\Eternity\\Reqres\\Tests\\RestApiTests.cs",
+              "RelativeToolTip": "Reqres\\Tests\\RestApiTests.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAiwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:05:49.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "HomePage.cs",
               "DocumentMoniker": "C:\\Git\\Auto\\Eternity\\AutomationExercise\\Pages\\HomePage.cs",
               "RelativeDocumentMoniker": "AutomationExercise\\Pages\\HomePage.cs",
@@ -50,12 +134,11 @@
               "RelativeToolTip": "AutomationExercise\\Pages\\HomePage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T13:43:49.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T13:43:49.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "UserDetailsShort.cs",
               "DocumentMoniker": "C:\\Git\\Auto\\Eternity\\AutomationExercise\\Models\\UserDetailsShort.cs",
               "RelativeDocumentMoniker": "AutomationExercise\\Models\\UserDetailsShort.cs",
@@ -63,12 +146,11 @@
               "RelativeToolTip": "AutomationExercise\\Models\\UserDetailsShort.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T13:35:08.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T13:35:08.538Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "SingUpAndLoginPage.cs",
               "DocumentMoniker": "C:\\Git\\Auto\\Eternity\\AutomationExercise\\Pages\\SingUpAndLoginPage.cs",
               "RelativeDocumentMoniker": "AutomationExercise\\Pages\\SingUpAndLoginPage.cs",
@@ -76,12 +158,11 @@
               "RelativeToolTip": "AutomationExercise\\Pages\\SingUpAndLoginPage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAUwBQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T13:33:29.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T13:33:29.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "SignUpFormTests.cs",
               "DocumentMoniker": "C:\\Git\\Auto\\Eternity\\AutomationExercise\\Tests\\SignUpFormTests.cs",
               "RelativeDocumentMoniker": "AutomationExercise\\Tests\\SignUpFormTests.cs",
@@ -89,12 +170,11 @@
               "RelativeToolTip": "AutomationExercise\\Tests\\SignUpFormTests.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAAiwDYAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T13:30:24.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T13:30:24.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "LoginTests.cs",
               "DocumentMoniker": "C:\\Git\\Auto\\Eternity\\AutomationExercise\\Tests\\LoginTests.cs",
               "RelativeDocumentMoniker": "AutomationExercise\\Tests\\LoginTests.cs",
@@ -102,8 +182,7 @@
               "RelativeToolTip": "AutomationExercise\\Tests\\LoginTests.cs",
               "ViewState": "AQIAABoAAAAAAAAAAADwvy0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T13:30:17.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T13:30:17.483Z"
             }
           ]
         }
